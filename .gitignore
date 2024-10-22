@@ -1,0 +1,25 @@
+.DS_Store
+node_modules/
+src/main/resources
+/dist/
+*.log*
+*.class
+target/
+bin/
+*.classpath
+*.project
+*.iml
+.settings/
+.idea/
+.mtj.tmp/
+package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+**rebel.xml
+*.rebel.xml.bak
